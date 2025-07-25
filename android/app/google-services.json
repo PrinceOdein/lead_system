@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "356384541578",
+    "project_id": "leadsystem-tmndn18",
+    "storage_bucket": "leadsystem-tmndn18.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:356384541578:android:99d38f47044357ebf51673",
+        "android_client_info": {
+          "package_name": "com.example.lead_system"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFmwuovUOcyL6qOqQ5AAZlTP_NcUfnGmM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

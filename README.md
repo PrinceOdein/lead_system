@@ -65,7 +65,7 @@ lib/
 1. **Clone the repo:**
    ```bash
    git clone https://github.com/yourusername/tamunodein-leadsystem.git
-   cd tamunodein-leadsystem
+   cd lead_system
    ```
 
 2. **Install dependencies:**
